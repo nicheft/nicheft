@@ -2,7 +2,7 @@
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning python at school
 - 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me: do not
+
 
 <!---
 nicheft/nicheft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
